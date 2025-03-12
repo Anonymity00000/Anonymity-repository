@@ -21,5 +21,3 @@
 
 ## Overview of LVPNet
 ![iamge](struct.png)
-
-## Feature map visualization
