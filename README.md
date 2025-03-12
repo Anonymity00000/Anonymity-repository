@@ -20,5 +20,6 @@
 ```python train.py --sub_rate=0.15 --block_size=34```
 
 ## Overview of LVPNet
+![iamge][struct.png]
 
 ## Feature map visualization
