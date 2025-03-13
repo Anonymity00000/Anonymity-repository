@@ -6,8 +6,6 @@
 * Pytorch 1.13.0   
 * Torchvision 0.14.0
 
-## Details of Implementations
-
 ## How to Run
 
 ### Training LVPNet
